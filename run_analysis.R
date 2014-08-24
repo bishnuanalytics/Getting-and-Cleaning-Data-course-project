@@ -1,7 +1,5 @@
 # Getting and Cleaning Data Course Project
-# Data info:
 # http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
 # download (if neccessary) and extract the data we need
 if(!file.exists("UCI HAR Dataset")){
   furl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
